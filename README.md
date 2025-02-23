@@ -35,6 +35,16 @@ I'm Royan, an informatics engineering student passionate about turning data into
 * **STF Scholarship Awardee**
 * **Talent Scouting Academy Digital Talent Scholarship by KOMINFO**
 
+---
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/royanrosyad85">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ## 📫Let's connect!
 * Linkedin: [royanrosyad](https://www.linkedin.com/in/royanrosyad/)
