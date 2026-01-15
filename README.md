@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Royan Rosyad!
 
-🌟 **Informatics Engineering Student | AI Engineer (soon) | Tech Enthusiast**  
+🌟 **Data Scientist | AI Engineer | Tech Enthusiast**  
 
 I'm Royan, an informatics engineering student passionate about turning data into meaningful insights.  I specialize in **data science, machine learning, and cloud computing**.  Excited to explore new technologies and leverage them to create impactful solutions!
 
@@ -16,15 +16,15 @@ I'm Royan, an informatics engineering student passionate about turning data into
 
 ## 🛠 Tech Stack
 
-**Programming Languages**: Python, SQL, PHP, JavaScript, HTML, CSS
+**Programming Languages**: Python, SQL, PHP, JavaScript
 
 **Data Tools**: BigQuery, Power BI, Tableau, Looker.
 
 **Cloud Platforms**: GCP, AWS, Oracle Cloud
 
-**Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, Flask, FastAPI
+**Frameworks & Libraries**: TensorFlow, PySpark, PyTorch, Scikit-learn, Flask, FastAPI
 
-**Others**: Git, Docker, Kubernetes, Jupyter Notebooks, CI/CD (GitHub Actions, Jenkins, Cloud Build)
+**Others**: Git, Docker, Kubernetes, Jupyter Notebooks, Databricks, CI/CD (GitHub Actions, Jenkins, Cloud Build)
 
 ---
 
@@ -32,8 +32,7 @@ I'm Royan, an informatics engineering student passionate about turning data into
 
 * **Distinction Graduate Bangkit Academy 2024 Batch 2 – Cloud Computing**
 * **Oracle Cloud Certified Foundations Associate**
-* **STF Scholarship Awardee**
-* **Talent Scouting Academy Digital Talent Scholarship by KOMINFO**
+* **Associate AI Engineer for Developers**
 
 ---
 
@@ -49,3 +48,4 @@ I'm Royan, an informatics engineering student passionate about turning data into
 ## 📫Let's connect!
 * Linkedin: [royanrosyad](https://www.linkedin.com/in/royanrosyad/)
 * Email: [royanrosyad313@gmail.com](mailto:royanrosyad313@gmail.com)
+* Portofolio: [here](royanrosyad.dev)
