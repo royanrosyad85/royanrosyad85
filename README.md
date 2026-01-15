@@ -48,4 +48,4 @@ I'm Royan, an informatics engineering student passionate about turning data into
 ## 📫Let's connect!
 * Linkedin: [royanrosyad](https://www.linkedin.com/in/royanrosyad/)
 * Email: [royanrosyad313@gmail.com](mailto:royanrosyad313@gmail.com)
-* Portofolio: [here](royanrosyad.dev)
+* Portofolio: [here](https://royanrosyad.dev)
